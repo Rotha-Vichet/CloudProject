@@ -59,7 +59,7 @@ export class Form3Component implements OnInit {
 
   constructor(private orderService: OrderService) {}
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
+    
   }
 
   // ngOnInit(): void {
